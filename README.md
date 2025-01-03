@@ -7,7 +7,6 @@
 </p>
 
 
-
 <br>
 
 #### 👉🏼 [Agent Aleph](https://docs.urani.trade/mev-agents/agents) is Urani's in-house arbitrage agent written in Python. Although the private version of Aleph is private for the Urani Protocol, this template brings its basic proprieties to the public.
