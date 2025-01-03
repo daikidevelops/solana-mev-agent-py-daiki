@@ -25,7 +25,6 @@
 ## How Aleph Works
 
 <br>
-
 1️⃣ Listen for incoming batches: Aleph fetches the orders from the Urani's orderbook;<br>
 2️⃣ Parse these batches to extract the order intents;<br>
 3️⃣ Check for peer-to-peer matches among the intents: naive 1-hop search, partial fills are not supported at this time; <br>
